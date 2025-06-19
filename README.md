@@ -6,7 +6,6 @@ This project applies deep learning techniques to recognize defects using the LEG
 
 - `lego_dataset_preparation.pynb` — Initial data exploration and preprocessing.
 - `Lego_defect_classification.ipynb` — Transfer learning experiments for defect recognition.
-- `help_func.py` — Helper functions for data processing and modeling.
 - `data/` — (Not included) Large datasets used for training and evaluation.
 
 ## Key Features
