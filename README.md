@@ -19,7 +19,7 @@ This project applies deep learning techniques to recognize defects using the LEG
 ## How to Use
 
 1. Clone this repository.
-2. Download the required datasets sSourse: https://zenodo.org/records/10731976.
+2. Download the required datasets (sourse: https://zenodo.org/records/10731976).
 3. Run the notebooks in order for a full walkthrough of the project.
 
 ## Results
@@ -31,4 +31,4 @@ This project applies deep learning techniques to recognize defects using the LEG
 
 **Author:** Natalia Marko  
 **Contact:** [LinkedIn](https://www.linkedin.com/in/nataliamarko2025)
-**Sourse:** https://zenodo.org/records/10731976
+
