@@ -23,10 +23,9 @@ This project applies deep learning techniques to recognize defects using the LEG
 
 ## Results
 
-- Achieved high precision 0.9 in defect recognition for class 'defect'.
+- Achieved high precision 0.87 in defect recognition for class 'defect'.
 - Demonstrated the effectiveness of using transfer learning from pretraines Resnet18 model.
   
-  <img width="595" alt="image" src="https://github.com/user-attachments/assets/13fa70e4-1d8e-4dc6-97c7-0fe8c397f5dd" />
 
 ---
 
